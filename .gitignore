@@ -1,3 +1,8 @@
+env/
+FastAPI/.env
+React\ finance-app/.env
+React\ finance-app/node_modules/
+FastAPI/venv/
 # Logs
 logs
 *.log
